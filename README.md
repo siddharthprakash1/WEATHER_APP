@@ -14,6 +14,10 @@ This is a simple weather app that allows users to check the current weather cond
 1. Open the HTML file in a web browser.
 2. Enter the desired city name in the search input field.
 3. Click the search button to fetch and display the current weather information for the specified city.
+![image](https://github.com/siddharthprakash1/WEATHER_APP/assets/92435819/cc9e14a4-05c8-4bbb-9099-095f8df2ab63)
+![image](https://github.com/siddharthprakash1/WEATHER_APP/assets/92435819/f51de8e8-a8e8-4707-af64-12740afa4d46)
+
+
 
 ## Features
 - **Search Functionality:** Enter a city name and click the search button to get weather information.

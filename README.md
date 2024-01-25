@@ -1,4 +1,4 @@
-# Weather App - Easy Tutorials
+# Weather App 
 
 ## Description
 This is a simple weather app that allows users to check the current weather conditions for a specific city. The app provides information such as temperature, humidity, and wind speed, along with an icon representing the weather condition.
